@@ -2049,7 +2049,17 @@ footer .widgetTitle{
 }
 .footer_logo {
     margin-bottom: 41px;
+    width: 150px; /* Set to your desired width */
+    height: auto; /* Maintain the aspect ratio */
+    padding: 10px 0; /* Adjust padding as needed */
+    margin-right: 57px; /* Keep this if you need space between logo and other elements */
 }
+
+.footer_logo img {
+    width: 100%; /* Make the image fill the container */
+    height: auto; /* Maintain aspect ratio */
+}
+
 aside.aboutFooterNav{
     position: relative;
     padding-left: 5px;
