@@ -1072,6 +1072,7 @@ License URI:
 }
 .project_item_thumb img{
     max-width: 100%;
+    margin-top: 30px;
     width:100%;
     height: auto;
     filter: grayscale(100%);
@@ -1385,8 +1386,9 @@ h4.ps_auth_name {
 /*------------------------------------------------------
 / Project Section STyle
 /------------------------------------------------------*/
-.project_counter{
-    text-align: center;
+.counterSection{
+    margin-top: -50px;
+    margin-bottom: -50px;
 }
 h2.oni-counter {
     font-size: 110px;
@@ -1397,11 +1399,11 @@ h2.oni-counter {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     margin-bottom: 3px;
 }
 h2.oni-counter span{
@@ -1443,10 +1445,13 @@ h2.oni-counter span{
 }
 
 
-
 /*------------------------------------------------------
 / Team Section STyle
 /------------------------------------------------------*/
+.team-section{
+    margin-top: -120px;
+    margin-bottom: -150px;
+}
 .team_Item {
     position: relative;
     padding: 42px 0 0;
@@ -2287,7 +2292,7 @@ aside.newslatter {
         box-shadow: 0 0 0 0 rgba(255, 106, 0, 0.3)
     }
     25%{
-        box-shadow: 0 0 0 0 rgba(255, 106, 0, 0.6)
+        box-shadow: 0 0 0 0 #061da7
     }
     50% {
         box-shadow: 0 0 0 40px transparent
@@ -2301,7 +2306,7 @@ aside.newslatter {
         box-shadow: 0 0 0 0 rgba(255, 106, 0, 0.3)
     }
     25%{
-        box-shadow: 0 0 0 0 rgba(255, 106, 0, 0.6)
+        box-shadow: 0 0 0 0 #061da7
     }
     50% {
         box-shadow: 0 0 0 40px transparent

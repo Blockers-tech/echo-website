@@ -1330,8 +1330,26 @@ License URI:
     .oniCounerDot:before{
         display: none;
     }
+    @media (max-width: 768px) {
+        .project_counter h2 {
+            font-size: 100px; /* Smaller font size for mobile */
+        }
+    
+        .project_counter h3 {
+            font-size: 20px; /* Smaller font size for mobile */
+        }
+    
+        .counter-wrapper {
+            flex-direction: column; /* Stack the counters vertically */
+            align-items: center; /* Center the counters */
+        }
+    
+        .counter-wrapper .col-sm-6 {
+            margin-bottom: 25px; /* Add some space between counters */
+        }
+    }
     .counterSection {
-        padding: 95px 0;
+        padding: 70px 0;
     }
     .hdOniSocial {
         display:none;
