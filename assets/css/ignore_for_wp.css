@@ -1,0 +1,683 @@
+.serviceSection{
+    background: #111111;
+    padding:170px 0 0 ;
+}
+.serviceSection .button-wrap {
+    top: 1px;
+}
+.serviceBrand_list ul li:first-child {
+    padding-bottom: 26px;
+}
+.serviceBrand_hading h2 span {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #FFF;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-size: 200% 100%;
+    background-position-x: 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+    left: -8px;
+}
+.projectSection{
+    padding: 154px 0 0;
+    background: #111111;
+}
+.projectCat_area {
+    padding-top: 56px;
+    margin-bottom: 85px;
+}
+.projectSection_slider{
+    background: #111111;
+    overflow-x: hidden;
+}
+.counterSection{
+    padding: 119px 0 119px;
+    background: #111111;
+    overflow: hidden;
+}
+.ourAwwardsSection {
+    padding: 16px 0 121px;
+    background: #111111;
+}
+.teamSection{
+    padding:150px 0 142px;
+    background: #070707;
+}
+.teamSection02{
+    padding:142px 0;
+    background: #070707;
+}
+.teamSection02 .team_Item {
+    margin-bottom: 30px;
+}
+.teamGridRow{
+    margin-top: 68px;
+}
+.testimonial01_section {
+    background: #111111;
+    padding: 141px 0 145px;
+}
+.clientTestimonila_sec {
+    padding: 104px 0 104px;
+    background: #070707;
+    overflow-x: hidden;
+}
+.clientTestimonila_sec .container-fluid{
+    padding: 0px;
+}
+.blogoSec01{
+    background: #111111;
+    padding: 156px 0 191px;
+}
+.blogGridSI{
+    margin-top: 79px;
+}
+.clientTestimonila_sec02 {
+    padding: 148px 0;
+    background: #111111;
+}
+.clientTestimonila_sec02 .client_content h3{
+    margin-bottom: 72px;
+}
+.aboutBoozy{
+    left:1px;
+}
+.aboutSection {
+    padding: 45px 0 152px;
+    background: #111111;
+}
+.serviceSection02{
+    padding: 124px 0 153px;
+    background: #070707;
+}
+.aboutProggress_bar{
+    padding: 149px 0 144px;
+    background: #111111;
+}
+.proggressBar:first-child{
+    padding-top: 19px;
+}
+.proggressBar:not(:last-child){
+    margin-bottom: 56px;
+}
+.proggressBar:nth-child(2){
+    margin-bottom: 77px;
+}
+.videoPlay01_sec .container-fluid{
+    padding: 0px;
+}
+.projectSection02{
+    padding:147px 0 117px; 
+    background: #111111;
+}
+.projectSection02 .projectCat_area{
+    padding-top: 55px;
+    margin-bottom: 69px;
+}
+.testimonial02_section {
+    padding: 143px 0 168px;
+    background: #070707;
+}
+.ourAwwardsSection02 {
+    padding: 146px 0 35px;
+    background: #111111;
+}
+.ourAwwardsSection02 .awwardsContent{
+    padding: 69px 0 72px;
+}
+.ourAwwardsSection02 .awwardedDesc p{
+    margin-top: 7px;
+}
+.footer_section02 {
+    padding: 128px 0 60px;
+    background: #070707;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.footer_section02 aside.aboutFooterNav {
+    padding: 7px 0 0 11px;
+}
+
+.footer_section02 .fContact_info{
+    padding: 7px 0 0;
+}
+.siteInfoSection02 {
+    padding: 34px 0 53px;
+    background: #070707;
+}
+
+
+.banner02 .banner_content h1{
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 120px;
+    color: #FFF;
+    letter-spacing: -1px;
+    margin-bottom: 102px;
+}
+.banner02 .banner_content {
+    padding: 336px 0 0 31px;
+}
+.banner02 .boozyBTN{
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+}
+.banner02 .boozyBTN:hover{
+    background: transparent;
+}
+.banner02 .bn_btnORdesc {
+    padding-left: 259px;
+}
+.banner02 .bn_btnORdesc > a {
+    margin-right: 67px;
+}
+.banner02 .bn_btnORdesc > p {
+    padding-top: 25px;
+    margin-right: -40px;
+}
+.videoPlay01_sec{
+    position: relative;
+    overflow: hidden;
+}
+.projectSection03{
+    padding: 0;
+    overflow: hidden !important;
+}
+.project_items03 {
+    position: relative;
+    margin: 0 -1px 0 0px;
+}
+.cusColPj03NT2{
+    padding-left: 16px;
+}
+.cusColPj03NT2 .project_items03 {
+    position: relative;
+    margin: 0 -5px 0 0px;
+}
+.cusColPj03NT2 .project_items03 {
+    margin-top: 90px;
+}
+.serviceSection03{
+    padding:111px 0px 106px;
+}
+.clientTestimonila_sec03{
+    padding: 80px 0 80px;
+}
+.cmb_30{
+    margin-bottom: 29px;
+}
+.clientTestimonila_sec03 .client_content h3 {
+    margin-bottom: 75px;
+}
+.serviceSection03 .serviceItem03:nth-child(2) {
+    padding: 71px 0 100px;
+}
+.serviceSection03 .serviceItem03:nth-child(3) {
+    padding: 84px 0 102px;
+}
+.readyToStart_sec{
+    padding: 59px 0 233px;
+}
+.readyToStart_sec h2{
+    font-size: 150px;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--heading-color);
+    letter-spacing: -1.5px;
+    text-transform: uppercase;
+}
+.readyToStart_sec h2 span {
+    display: inline-block;
+    top: 14px;
+    position: relative;
+    left:-2px;
+}
+.readyToStart_sec .boozyBTN {
+    top: 9px;
+    position: relative;
+    left:8px
+}
+.footer_section03 {
+    padding: 85px 0 133px;
+    background: #111111;
+    border-top: 1px solid rgba(196,197,199,0.3);
+    position: relative;
+    z-index: 2;
+}
+.footer_section03 .fContact_info {
+    padding-top: 8px;
+}
+.footer_section03 aside.aboutFooterNav {
+    position: relative;
+    padding-left: 5px;
+    padding-top: 9px;
+}
+.footer_section03 .footer_logo {
+    margin-bottom: 26px;
+}
+.footer_section03 .aboutBoozy p{
+    color: #c4c5c7;
+    opacity: 0.4;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.35px;
+}
+.footer_section03 .fContact_info p {
+    margin: 0 0 12px;
+}
+.readyToStart_sec .row{
+    position: relative;
+    z-index:9;
+}
+.aboutBanner{
+    background: url(../images/page-bn/abPb.jpg)no-repeat scroll;
+    background-size: cover;
+    background-position: center center;
+    background-color: #111111;
+}
+.aboutSection02 {
+    padding:150px 0 221px;
+    background: #111111;
+}
+.boozyabHd.text-center {
+    padding: 0 0 146px;
+}
+.boozyabHd p{
+    font-size: 48px;
+    line-height: 72px;
+    font-weight: 300;
+    letter-spacing: -0.48px;
+    font-family: var(--primary-font);
+    color: #FFF;
+}
+.boozyabHd p strong{
+    font-weight: 600;;
+}
+.aboutSection02 .abThumbImgcol01 {
+    margin-top: 116px;
+}
+.aboutSection02 .aboutContent > h2 {
+    padding: 33px 20px 0 0;
+}
+.counterSection02 {
+    padding: 124px 0 153px;
+    background: #070707;
+    overflow: hidden;
+}
+.counterSection02 h2.oni-counter {
+    margin-bottom: 4px;
+}
+.ourAwwardsSection03 {
+    padding: 168px 0 60px;
+    background: #111111;
+}
+.ourAwwardsSection03 .awwardsContent {
+    position: relative;
+    padding: 69px 0 74px;
+    border-bottom: 1px solid rgba(208,208,208,0.2);
+}
+.clientTestimonila_sec04 {
+    padding: 158px 0 140px;
+    background: #111111;
+    overflow: hidden;
+}
+.clientTestimonila_sec04 .client_content h3 {
+    margin-bottom: 71px;
+}
+.serviceSection04{
+    padding: 141px 0 100px;
+    background: #111111;
+}
+.serviceSection04 .serviceItem02 {
+    padding: 37px 42px 58px 50px;
+    background: #070707;
+    margin: 0 0 30px;
+}
+.serviceAboutSection {
+    padding: 52px 0 172px;
+    background: #111111;
+    overflow-x: hidden;
+}
+.serviceAboutSection .boozyAcordion {
+    padding: 16px 0 0 23px;
+}
+.serviceAboutSection .aboutContent > h2 {
+    padding: 33px 20px 0 0;
+}
+.servicePricingTable{
+    background: #111111;
+    padding: 0 0 100px;
+}
+.servicePricingTable  .secHeading{
+    margin-bottom: 63px;
+}
+.srvProjectSection .projectCarousel.owl-carousel .owl-dots {
+    margin-top: 33px;
+}
+/*--- Service FAQ ---*/
+.serviceFaqSec {
+    padding: 37px 0 164px;
+    background: #111111;
+}
+.serviceFaqHeading h2{
+    font-size: 150px;
+    font-weight: 700;
+    color: #FFF;
+    line-height: 1;
+    text-transform: uppercase;
+    letter-spacing: -1.5px;
+}
+.serviceFaqHeading h2 span {
+    display: inline-block;
+    position: relative;
+    top: 14px;
+    left: -8px;
+}
+.serviceFaqAcordion .boozyAcordion {
+    padding: 13px 0 0 3px;
+}
+.serviceFaqAcordion button.accordion-button:after{
+    left: 1px;
+}
+.serviceFaqAcordion .accordion-body {
+    margin-bottom: 30px;
+}
+.srv_AboutProggress_bar {
+    padding: 127px 0 161px;
+    background: #070707;
+}
+.srvProjectSection{
+    padding: 152px 0 120px;
+    background: #111111;
+} 
+.projectSection_sliderWrapper {
+    padding: 101px 0 0;
+}
+.srvTestimonial01_section {
+    background: #111111;
+    padding: 24px 0 162px;
+}
+.serviceDetailsAB{
+    padding: 190px 0 100px;
+    background: #111111;
+}
+.serviceDetailsABItemSec{
+    padding: 50px 0 146px;
+    background: #111111;
+}
+.caseStudyInfo{
+    padding: 126px 0 123px;
+    background: #111111;
+}
+.caseStudyInfoThumbSec{
+    background: #111111;
+    margin:0;
+    padding:0;
+}
+.caseStudyInfoContetnsec{
+    background: #111111;
+    padding: 128px 0 134px;
+}
+.csStuInfoContent h2{
+    margin: 0 0 38px !important;
+}
+.csStudyThumbItemsSEC{
+    margin: 0px;
+    padding:0px;
+    background: #111111;
+}
+.csStuThumbItem{
+    position: relative;
+}
+.csStuThumbItem img{
+    max-width: 100%;
+    height: auto;
+}
+.caseStudyInfoContetnsec02{
+    background: #111111;
+    padding: 144px 0 145px;
+}
+.caseStudyInfoContetnsec .col-lg-8{
+    padding: 0 8px;
+}
+.careerAcordionSec{
+    padding: 140px 0 155px;
+    background: #111111;
+}
+.blogPageSection{
+    padding: 142px 0 132px;
+    background: #111111;
+}
+aside.widget.search_widget {
+    margin: 12px 0 65px;
+}
+aside.widget.latest_post_widget {
+    margin: 0 0 62px;
+}
+aside.widget.post_category_widget {
+    margin: 0 0 66px;
+}
+.blogDetailsPgSec{
+    padding: 142px 0 155px;
+    background: #111111;
+}
+.singleImgThumb {
+    margin: 0 0 50px
+}
+.postContent p:first-child {
+    padding: 0 0 56px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    margin: 0;
+}
+.postContent .prvTagSocialp{
+    margin: 0 -1px 65px 0;
+}
+.postNavigationRow{
+    margin: 82px 0 101px;
+}
+.foferrorSec{
+    background: #070707;
+    padding: 282px 0 327px;
+    background-image: url(../images/fofbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    position: relative;
+}
+.foferrorSec:before{
+    position: absolute;
+    content:"";
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background: rgba(0,0,0,0.9);
+}
+.contactInfoSec {
+    padding: 126px 0 0;
+    background: #111111;
+}
+.contactInfoRow{
+    padding: 0 0 138px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+.contactFormSec{
+    padding: 134px 0 169px;
+    background: #111111;
+}
+.contactFormSec h2 {
+    font-size: 72px;
+    font-weight: 400;
+    color: #FFF;
+    letter-spacing: -0.72px;
+    text-transform: uppercase;
+    line-height: 90px;
+    margin: 0 0 75px;
+}
+.contactGoogleMap {
+    position: relative;
+    overflow: hidden;
+}
+
+.portfolioCarouselSEc_01{
+    padding: 196px 0 61px;
+    background: #111111;
+    overflow: hidden;
+}
+.footerInfor04{
+    padding: 40px 0 41px;
+    background: #111111;
+}
+.ourAwwardsSection03 .awwardsContent:nth-child(3) {
+    padding: 67px 0 74px;
+}
+
+
+@media(max-width: 991px){
+    .oniCounterWrap{
+        margin-bottom: 30px;
+    }
+    .team_Item{
+        margin-bottom: 30px;
+    }
+    .serviceItem02{
+        margin-bottom: 30px;
+    }
+    .caseStudyInfoItem {
+        margin-bottom: 40px;
+    }
+    .srvDetailsAbSingleItem{
+        margin-bottom: 50px;
+    }
+    .srv_AboutProggress_bar .abProggressHeading{
+        margin: 0 0 55px;
+    }
+    .serviceDetailsAB {
+        padding: 140px 0 100px;
+    }
+    .serviceDetailsABItemSec {
+        padding: 50px 0 90px;
+    }
+}
+@media(max-width: 767px){
+    .project_items03{
+        padding-bottom: 60px !important;
+    }
+    .readyToStart_sec {
+        padding: 59px 0 200px;
+    }
+    .csStuThumbItem {
+        margin: 0 0 30px
+    }
+    .contactInfoItem {
+        margin: 0 0 40px;
+    }
+    .blogDetailsPgSec {
+        padding: 110px 0 125px;
+    }
+
+}
+@media(max-width:575px){
+    .serviceSection {
+        padding: 120px 0 0;
+    }
+    .ourAwwardsSection {
+        padding: 16px 0 70px;
+    }
+    .teamSection {
+        padding: 120px 0 110px;
+        overflow: hidden;
+    }
+    .testimonial01_section {
+        padding: 120px 0 125px;
+    }
+    .blogoSec01 {
+        padding: 120px 0 130px;
+    }
+    .clientTestimonila_sec02 {
+        padding: 120px 0;
+    }
+    .serviceSection02 {
+        padding: 120px 0 120px;
+    }
+    .testimonial02_section,
+    .aboutProggress_bar {
+        padding: 120px 0 124px;
+    }
+    .ourAwwardsSection02 {
+        padding: 126px 0 35px;
+    }
+    .serviceSection03 {
+        padding: 10px 0px 90px;
+    }
+    .readyToStart_sec {
+        padding: 59px 0 150px;
+    }
+    .aboutSection02 .aboutContent > h2 {
+        padding: 68px 20px 0 0;
+    }
+    .clientTestimonila_sec04 {
+        padding: 128px 0 120px;
+    }
+    .aboutSection02 {
+        padding: 120px 0 161px;
+    }
+    .caseStudyInfoContetnsec02 {
+        padding: 120px 0 120px;
+    }
+    .footerInfor04 .fInfoCopyright4,
+    .footerInfor04 .col-md-6{
+        text-align: center !important;
+    }
+    .srvProjectSection {
+        padding: 120px 0 110px;
+    }
+    .srv_AboutProggress_bar {
+        padding: 100px 0 111px;
+    }
+    .srvTestimonial01_section {
+        padding: 24px 0 112px;
+    }
+}
+
+@media(max-width: 424px){
+    .slider01 .tp-caption.boozyBH1.textLayer{
+        font-size: 68px;
+    }
+    .slider01 .tp-caption.boozyBH1.textLayer {
+        font-size: 61px !important;
+        min-width: 300px !important;
+        max-width: 300px !important;
+        padding-left: 10px !important;
+        line-height: 61px !important;
+        top: -25px;
+    }
+    .slider01 .tp-caption.textPLayer{
+        max-width: 300px !important;
+        min-width: 300px !important;
+    }
+    .slider01 .textLayer .boozyBTN{
+        top:-10px;
+        position: relative;
+    }
+    .slider02 .tp-caption.boozyBH1.textLayer {
+        max-width: 300px !important;
+        min-width: 300px !important;
+        max-width: 300px !important;
+        padding-left: 10px !important;
+        font-size: 43px !important;
+        line-height: 63px !important;
+        top: -25px;
+    }
+    .slider02 .tp-caption.textPLayer{
+        max-width: 300px !important;
+        min-width: 300px !important;
+    }
+    .slider02 .tp-caption.typeHeading {
+        font-size: 100px !important;
+    }
+}
