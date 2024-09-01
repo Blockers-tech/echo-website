@@ -898,6 +898,7 @@ License URI:
     background-repeat: no-repeat;
     display: inline-block;
     position: relative;
+    /* font-size: 100px; */
     top: 1px;
     left: -8px;
 }
@@ -934,6 +935,7 @@ License URI:
 }
 .serviceBrand_list ul li a > span {
     margin-right: 39px;
+    font-size: 25px;
     display: inline-block;
 }
 .serviceBrand_list ul li a:hover{
@@ -2303,7 +2305,7 @@ aside.newslatter {
 }
 @keyframes waveBtn {
     0% {
-        box-shadow: 0 0 0 0 rgba(255, 106, 0, 0.3)
+        box-shadow: 0 0 0 0 rgba(0, 8, 255, 0.31)
     }
     25%{
         box-shadow: 0 0 0 0 #061da7
@@ -2802,7 +2804,7 @@ ul.social_item li a:hover {
     height: auto; 
     padding: 266px 0 263px;
     z-index: 2;
-    background: #ff5100 ;
+    background: #061da7 ;
 }
 .fiexdBanner::before{
     position: absolute;
@@ -3532,7 +3534,7 @@ ul.social_item li a:hover {
     left:50%;
     width:100%;
     height:100%;
-    background: rgba(255,81,0,0.3);
+    background: rgba(0, 0, 255, 0.3);
     z-index: 1;
     transform: translate(-50%, -50%) scale(0);
     -webkit-transform: translate(-50%, -50%) scale(0);
@@ -3581,8 +3583,11 @@ ul.social_item li a:hover {
     font-family: inherit;
     color: inherit;
 }
+.clientTestimonila_sec {
+    margin-bottom: -100px;
+}
 .clientLogoGrid a.cleintLogo {
-    min-height: 154px;
+    max-height: 150px;
     height: 100%;
     width: 100%;
     text-align: center;
@@ -3599,6 +3604,10 @@ ul.social_item li a:hover {
     opacity: 1;
     position: relative;
     z-index: 9;
+}
+a.cleintLogo img{
+    max-height: 90px;
+    width: 100%;
 }
 .clientLogoGrid a.cleintLogo:hover{
     opacity: 0.7;
@@ -5016,10 +5025,10 @@ ul.srServiceList li span{
     background: rgba(57,172,241,0.7);
 }
 .postSocialShare .pin{
-    background: rgba(213,68,67,1);
+    background: #061da7;
 }
 .postSocialShare .pin:hover{
-    background: rgba(213,68,67,0.7);
+    background: #061da7;
 }
 
 .postNavigationRow {
@@ -5192,7 +5201,7 @@ ul.srServiceList li span{
 .comment-reply-link {
     font-size: 13px;
     font-weight: 600;
-    color: #d54403;
+    color: #061da7;
     text-transform: capitalize;
     font-family: var(--primary-font);
     line-height: 1;
@@ -5334,7 +5343,7 @@ p.commentDesc {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #fe0000;
+    background: #061da7;
     mix-blend-mode: multiply;
     opacity: 0;
     visibility: hidden;
@@ -5729,7 +5738,7 @@ body #magicMouseCursor.is-hover{
     left:0;
     width: 2vw;
     height: 2vw;
-    background: purple;
+    background: #061da7;
     border-radius: 50%;
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
