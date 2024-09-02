@@ -3608,7 +3608,7 @@ ul.social_item li a:hover {
     z-index: 9;
 }
 a.cleintLogo img{
-    min-height: 100px !important;
+    max-height: 95% !important;
     height: auto;
     /* width: 100%; */
     overflow:auto
