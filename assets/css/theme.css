@@ -3608,8 +3608,10 @@ ul.social_item li a:hover {
     z-index: 9;
 }
 a.cleintLogo img{
-    height: 95% !important;
+    min-height: 100px !important;
+    height: auto;
     /* width: 100%; */
+    overflow:auto
 }
 .clientLogoGrid a.cleintLogo:hover{
     opacity: 0.7;
