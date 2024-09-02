@@ -1829,7 +1829,7 @@ a.cleintLogo:hover{
 /*------------------------------------------------------
 / Blog Section STyle
 /------------------------------------------------------*/
-.blogItem01 {
+/* .blogItem01 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1969,7 +1969,7 @@ p.blogDesc{
 }
 .boozyPagination {
     margin: 58px 0 0;
-}
+} */
 
 /*------------------------------------------------------
 / Footer Section STyle
@@ -3587,7 +3587,7 @@ ul.social_item li a:hover {
     margin-bottom: -100px;
 }
 .clientLogoGrid a.cleintLogo {
-    max-height: 150px;
+    /* max-height: 150px; */
     height: 100%;
     width: 100%;
     text-align: center;

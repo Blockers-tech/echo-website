@@ -493,7 +493,7 @@ License URI:
         right: -60px;
     }
     .banner {
-        height: 1000px;
+        height: 900px;
     }
     .banner_content {
         padding-top: 224px;
@@ -631,7 +631,7 @@ License URI:
         margin-right: 50px;
     }
     .banner {
-        height: 980px;
+        height: 900px;
     }
     .banner_content {
         padding-top: 240px;
@@ -879,7 +879,7 @@ License URI:
         margin: 0 auto;
     }
     .fiexdBanner {
-        padding: 220px 0 199px;
+        padding: 220px 0 120px;
     }
     .boozyBannerBtnArea {
         padding: 83px 0 0 86px;
@@ -1194,7 +1194,7 @@ License URI:
         margin: 0 auto;
     }
     .fiexdBanner {
-        padding: 169px 0 100px;
+        padding: 169px 0 80px;
     }
     .boozyBTN {
         width: 140px;
@@ -1299,7 +1299,7 @@ License URI:
         margin-top: 30px;
     }
     .banner {
-        height: 880px;
+        height: 800px;
     }
     .serviceBrand_hading h2 {
         font-size: 86px;
@@ -1574,7 +1574,7 @@ License URI:
         font-size: 20px;
     }
     .fiexdBanner {
-        padding: 146px 0 80px;
+        padding: 146px 0 20px;
     }
     .fiexdBanner02 h1.typeHeading {
         letter-spacing: -1px !important;
@@ -1656,7 +1656,7 @@ License URI:
         padding-top: 10px;
     }
     .banner {
-        height: 740px;
+        height: 500px;
     }
     .banner_content {
         padding-top: 165px;
@@ -1665,9 +1665,6 @@ License URI:
         width: 120px;
         height: 120px;
         margin-top: 25px;
-    }
-    .oniSearch{
-        display: none;
     }
     .menu_btn {
         margin-right: 20px;
@@ -1855,4 +1852,3 @@ License URI:
         margin:0;
     }
 }
-
