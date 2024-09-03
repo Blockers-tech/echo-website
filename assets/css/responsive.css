@@ -181,7 +181,7 @@ License URI:
     .menu_btn.menuBTN02.active i{
         color: var(--primary-color);
     }
-    .mainMenu{
+    /* .mainMenu{
         z-index: 99;
         position: absolute;
         margin: 0;
@@ -376,7 +376,7 @@ License URI:
     }
     .mainMenu > ul > li > ul li:hover > a, .mainMenu > ul > li > ul li:active > a{
         background: transparent;
-    }
+    } */
     .hm2Progressbar_col{
         margin-top: 60px;
     }
@@ -1574,7 +1574,11 @@ License URI:
         font-size: 20px;
     }
     .fiexdBanner {
-        padding: 146px 0 20px;
+        padding: 100px 0px 0px;
+    }
+    .fiexdBanner::before{
+        top: 20%;
+        bottom: 10%;
     }
     .fiexdBanner02 h1.typeHeading {
         letter-spacing: -1px !important;
